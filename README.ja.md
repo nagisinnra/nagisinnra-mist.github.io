@@ -9,7 +9,7 @@ NagisinnraLinux‑mist は、本家 NagisinnraLinux をベースに
 
 ---
 
-## 🌌 特徴
+## 特徴
 
 ### ■ Mist 専用テーマ
 - LightDM テーマを Mist 用に再設計  
@@ -35,7 +35,7 @@ NagisinnraLinux‑mist は、本家 NagisinnraLinux をベースに
 
 ---
 
-## 🔧 技術構成
+## 技術構成
 
 - **Base**: Debian Trixie  
 - **DE**: Xfce4  
@@ -47,23 +47,23 @@ NagisinnraLinux‑mist は、本家 NagisinnraLinux をベースに
 
 ---
 
-## 📦 ISO ダウンロード
-（ここに GitHub Releases のリンクを貼る）
+## ISO ダウンロード
+
+**https://mega.nz/file/eU9R0LZJ#HogUGz_IlTmFe1osKtxGn9Vu-5oQ-e6Lx_pkD2swfA8**
+---
+
+
+
 
 ---
 
-## 🖼 スクリーンショット
-（後で追加）
-
----
-
-## 📝 ライセンス
+##  ライセンス
 Debian ベースのため、各パッケージはそれぞれのライセンスに従います。  
 Mist テーマ部分は NagisinnraLinux 開発者によるオリジナルです。
 
 ---
 
-## 🌫️ 世界観
+## 世界観
 NagisinnraLinux‑mist は、  
 「霧の中に浮かぶ青銀河」をテーマにした世界観 OS です。
 
