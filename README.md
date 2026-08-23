@@ -49,12 +49,11 @@ This guarantees that new users start with the complete Mist world‑theme intact
 ---
 
 ## ISO Download
-(Place your GitHub Releases link here)
+https://mega.nz/file/eU9R0LZJ#HogUGz_IlTmFe1osKtxGn9Vu-5oQ-e6Lx_pkD2swfA8
 
 ---
 
-## Screenshots
-(To be added)
+
 
 ---
 
